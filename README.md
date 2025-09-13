@@ -1,4 +1,4 @@
-# EXPERIMENT 14: INHERITANCE PROGRAMS IN C++
+# EXPERIMENT 14: INHERITANCE IN C++
 
 ## AIM
 To understand and implement **Inheritance** in C++ and demonstrate how derived classes can reuse and extend the properties of base classes.
