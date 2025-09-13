@@ -40,7 +40,7 @@ Enable runtime polymorphism so the correct overridden function in a derived clas
 - Supports **polymorphism** and **dynamic binding**.
 - Simplifies maintenance and extension.
 
-### PRACTICAL USE
+### APPLICATIONS
 Inheritance models real-world “is-a” relationships.  
 Example: A `Dog` or `Cat` class can inherit from an `Animal` class since both **are** animals but have their own extra behaviors.
 
