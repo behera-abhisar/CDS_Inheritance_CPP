@@ -44,7 +44,7 @@ Enable runtime polymorphism so the correct overridden function in a derived clas
 Inheritance models real-world “is-a” relationships.  
 Example: A `Dog` or `Cat` class can inherit from an `Animal` class since both **are** animals but have their own extra behaviors.
 
-# EXPERIMENT 14(A): SINGLE INHERITANCE
+## EXPERIMENT 14(A): SINGLE INHERITANCE
 
 ## ALGORITHM
 
@@ -54,7 +54,7 @@ Example: A `Dog` or `Cat` class can inherit from an `Animal` class since both **
 4. In `main()`, make a `ResearchProbe` object, call `launch()`, `performExperiment()`, `status()`, `refuel()`, and repeat.
 5. **Stop**
 
-# EXPERIMENT 14(B): MULTIPLE INHERITANCE
+## EXPERIMENT 14(B): MULTIPLE INHERITANCE
 
 ## ALGORITHM
 
@@ -65,7 +65,7 @@ Example: A `Dog` or `Cat` class can inherit from an `Animal` class since both **
 5. In `main()`, create a `Car` object, call `startEngine()`, `info()`, and `display()`.  
 6. **Stop**  
 
-# EXPERIMENT 14(C): MULTILEVEL INHERITANCE
+## EXPERIMENT 14(C): MULTILEVEL INHERITANCE
 
 ## ALGORITHM
 
@@ -84,7 +84,7 @@ Example: A `Dog` or `Cat` class can inherit from an `Animal` class since both **
    - Call `launch()`, `performExperiment()`, `land()`, `status()`, `refuel()` as required.
 6. **Stop**
 
-# EXPERIMENT 14(D): HIERARCHICAL INHERITANCE
+## EXPERIMENT 14(D): HIERARCHICAL INHERITANCE
 
 ## ALGORITHM
 
