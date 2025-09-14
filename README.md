@@ -46,7 +46,7 @@ Example: A `Dog` or `Cat` class can inherit from an `Animal` class since both **
 
 ## EXPERIMENT 14(A): SINGLE INHERITANCE
 
-## ALGORITHM
+### ALGORITHM
 
 1. **Start**
 2. Create base class `Spacecraft` with `name`, `fuel`, `launch()`, and `refuel()`.
@@ -56,7 +56,7 @@ Example: A `Dog` or `Cat` class can inherit from an `Animal` class since both **
 
 ## EXPERIMENT 14(B): MULTIPLE INHERITANCE
 
-## ALGORITHM
+### ALGORITHM
 
 1. **Start**  
 2. Create base class `Engine` with `hp` and `startEngine()` method.  
@@ -67,7 +67,7 @@ Example: A `Dog` or `Cat` class can inherit from an `Animal` class since both **
 
 ## EXPERIMENT 14(C): MULTILEVEL INHERITANCE
 
-## ALGORITHM
+### ALGORITHM
 
 1. **Start**
 2. Define base class `Spacecraft` with:
@@ -86,7 +86,7 @@ Example: A `Dog` or `Cat` class can inherit from an `Animal` class since both **
 
 ## EXPERIMENT 14(D): HIERARCHICAL INHERITANCE
 
-## ALGORITHM
+### ALGORITHM
 
 1. **Start**
 2. Define base class `Animal` with:
